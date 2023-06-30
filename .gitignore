@@ -12,3 +12,6 @@ docs/
 
 # Dotenv file
 .env
+
+# Patrick does not like to push it up
+broadcast/
