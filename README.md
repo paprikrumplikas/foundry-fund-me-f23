@@ -1,3 +1,7 @@
+Description
+-this is a crowd sourcing project
+
+
 Getting started
 -reqs
 
